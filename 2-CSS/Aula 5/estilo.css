@@ -1,0 +1,14 @@
+body{
+    background:rgb(197, 197, 197);
+}
+
+p{
+    color: hsl(60, 1%, 18%);
+}
+
+.foto-principal{
+    width: 200px; ;
+    border: 2px solid white ;
+    border-radius: 100% 0 100% 0;
+    margin: 30px 30px 30px 30px;    
+}
